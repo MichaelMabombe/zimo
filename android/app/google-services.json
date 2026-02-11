@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849880119544",
+    "project_id": "zimo-app-65df1",
+    "storage_bucket": "zimo-app-65df1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849880119544:android:fa285244a38fdf91d8e30d",
+        "android_client_info": {
+          "package_name": "com.example.zimo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXboFRS-0bS-XBHxf_oaRUZCPzIAmfQcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
