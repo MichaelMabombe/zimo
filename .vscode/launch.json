@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "zimo_app",
+            "cwd": "zimo_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "zimo_app (profile mode)",
+            "cwd": "zimo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "zimo_app (release mode)",
+            "cwd": "zimo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "root_flutter_app_legacy",
+            "cwd": "archive\\root_flutter_app_legacy",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "root_flutter_app_legacy (profile mode)",
+            "cwd": "archive\\root_flutter_app_legacy",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "root_flutter_app_legacy (release mode)",
+            "cwd": "archive\\root_flutter_app_legacy",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "zimo_app",
+            "cwd": "archive\\zimo_workspace_legacy\\mobile\\zimo_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "zimo_app (profile mode)",
+            "cwd": "archive\\zimo_workspace_legacy\\mobile\\zimo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "zimo_app (release mode)",
+            "cwd": "archive\\zimo_workspace_legacy\\mobile\\zimo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

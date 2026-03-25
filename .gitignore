@@ -30,6 +30,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+_tmp_flutter_probe/
+zimo_app/android/build/
 
 # Symbolication related
 app.*.symbols
