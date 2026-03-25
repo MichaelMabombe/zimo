@@ -1,0 +1,247 @@
+{
+  "@@locale": "pt",
+  "appTitle": "ZIMO",
+  "poweredByCetus": "Powered by Cetus Technologys",
+  "logoutTitle": "Terminar sessao",
+  "logoutMessage": "Deseja realmente fazer log out?",
+  "cancel": "Cancelar",
+  "logout": "Log out",
+  "roleAdmin": "Admin",
+  "roleOwner": "Proprietario",
+  "roleTenant": "Inquilino",
+  "accountType": "Tipo de conta: {role}",
+  "@accountType": {
+    "placeholders": {
+      "role": {}
+    }
+  },
+  "userEmailWithRole": "{role} - {email}",
+  "@userEmailWithRole": {
+    "placeholders": {
+      "role": {},
+      "email": {}
+    }
+  },
+  "welcomeHeadline": "Alugue sem intermediarios e encontre seu proximo lar mais rapido.",
+  "welcomeSubtitle": "A ZIMO conecta proprietarios e inquilinos em um processo simples, direto e seguro.",
+  "welcomeStartTitle": "Comece em menos de 2 minutos",
+  "welcomeStartSubtitle": "Escolha seu perfil e acesse as funcoes principais rapidamente.",
+  "welcomeFeaturePropertiesTitle": "Imoveis sob controle",
+  "welcomeFeaturePropertiesSubtitle": "Status, renda, fotos e documentos.",
+  "welcomeFeaturePaymentsTitle": "Pagamentos claros",
+  "welcomeFeaturePaymentsSubtitle": "Alertas de atraso e historico completo.",
+  "welcomeFeatureMaintenanceTitle": "Manutencao organizada",
+  "welcomeFeatureMaintenanceSubtitle": "Pedidos, aprovacoes e tecnicos.",
+  "quickAccess": "Acesso rapido",
+  "getStarted": "Comecar",
+  "alreadyHaveAccount": "Ja tenho conta",
+  "userTypeTitle": "Tipo de usuario",
+  "roleSelectQuestion": "Como voce vai usar a ZIMO?",
+  "roleSelectSubtitle": "Isso ajuda a personalizar o dashboard e as permissoes.",
+  "ownerRoleTitle": "Proprietario",
+  "ownerRoleSubtitle": "Gerencie imoveis, contratos e rendas.",
+  "tenantRoleTitle": "Inquilino",
+  "tenantRoleSubtitle": "Pagamentos, contrato e pedidos de manutencao.",
+  "continueAction": "Continuar",
+  "loginTitle": "Entrar",
+  "welcomeBack": "Bem-vindo de volta",
+  "loginInstructions": "Use seu email e senha para continuar.",
+  "emailLabel": "Email",
+  "emailHint": "exemplo@zimo.co.mz",
+  "passwordLabel": "Senha",
+  "passwordHint": "********",
+  "hidePassword": "Ocultar senha",
+  "showPassword": "Ver senha",
+  "rememberMe": "Lembrar-me",
+  "forgotPassword": "Esqueci a senha",
+  "processing": "A processar...",
+  "informEmailAndPassword": "Informe email e senha.",
+  "backendConnectionError": "Erro ao conectar com o backend.",
+  "accountNotFound": "Conta nao encontrada.",
+  "fillNamePhoneAddress": "Preencha nome, telefone e endereco.",
+  "profileSettingsTitle": "Configuracoes do perfil",
+  "changePhoto": "Alterar foto",
+  "nameLabel": "Nome",
+  "yourNameHint": "Seu nome",
+  "phoneLabel": "Telefone",
+  "phoneHint": "+258 84 000 0000",
+  "addressLabel": "Endereco",
+  "addressHint": "Rua, bairro, cidade",
+  "saveChanges": "Salvar alteracoes",
+  "registerOwnerTitle": "Criar conta de proprietario",
+  "registerTenantTitle": "Criar conta de inquilino",
+  "registerTitle": "Criar conta",
+  "fillAllFields": "Preencha todos os campos.",
+  "fullNameLabel": "Nome completo",
+  "contactLabel": "Contacto",
+  "documentLabel": "Documento (BI/NIF)",
+  "documentHint": "Numero do documento",
+  "createAccount": "Criar conta",
+  "registerInfo": "Os dados sao obrigatorios e serao enviados para a base de dados na integracao do backend.",
+  "propertyFormTitle": "Cadastrar imovel",
+  "newPropertyAutoStatusInfo": "Imoveis novos entram automaticamente como Disponivel e so mudam de estado quando houver arrendamento.",
+  "propertyNameLabel": "Nome do imovel",
+  "propertyNameHint": "Ex: Casa Sol do Mar",
+  "propertyTypeLabel": "Tipo de imovel",
+  "bedroomCountLabel": "Quantidade de quartos",
+  "rentValueLabel": "Valor da renda (MT)",
+  "rentValueHint": "45000",
+  "statusLabel": "Estado",
+  "propertyAvailableAutomatic": "Disponivel (automatico)",
+  "descriptionLabel": "Descricao",
+  "propertyDescriptionHint": "Informacoes adicionais do imovel",
+  "facadePhotosTitle": "Fotos da fachada",
+  "facadePhotosSubtitle": "Adicione a foto principal do exterior do imovel.",
+  "interiorPhotosTitle": "Fotos internas",
+  "interiorPhotosSubtitle": "Adicione sala, quartos, cozinha e wc.",
+  "saveProperty": "Salvar imovel",
+  "detectedCity": "Cidade detectada para o cadastro: {city}",
+  "@detectedCity": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tenantFormTitle": "Cadastrar inquilino",
+  "tenantNameHint": "Nome do inquilino",
+  "associatedPropertyLabel": "Imovel associado",
+  "saveTenant": "Salvar inquilino",
+  "contractFormTitle": "Criar contrato",
+  "propertyLabel": "Imovel",
+  "tenantLabel": "Inquilino",
+  "startLabel": "Inicio",
+  "endLabel": "Fim",
+  "monthlyValueLabel": "Valor mensal (MT)",
+  "monthlyValueHint": "45.000",
+  "contractDocumentLabel": "Documento do contrato",
+  "contractDocumentHint": "Upload do PDF (futuro)",
+  "saveContract": "Salvar contrato",
+  "changePhotos": "Alterar ({count})",
+  "@changePhotos": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "add": "Adicionar",
+  "dashboardTitle": "Dashboard ZIMO",
+  "chatTooltip": "Chat",
+  "homeNav": "Home",
+  "propertiesNav": "imoveis",
+  "paymentsNav": "Pagamentos",
+  "maintenanceNav": "Manutencao",
+  "exploreNav": "Explorar",
+  "propertyUnavailableNow": "Este imovel nao esta disponivel agora.",
+  "reservationStartedVia": "Reserva e pagamento iniciados via {paymentMethod}.",
+  "@reservationStartedVia": {
+    "placeholders": {
+      "paymentMethod": {}
+    }
+  },
+  "reserveAndPay": "Reservar e pagar",
+  "dayLabel": "Dia",
+  "monthLabel": "Mes",
+  "filterPeriodLabel": "Filtrar periodo",
+  "fillMaintenanceFields": "Preencha os campos da manutencao.",
+  "maintenanceRequestSent": "Pedido de manutencao enviado.",
+  "problemTitleLabel": "Titulo do problema",
+  "problemTitleHint": "Ex: Fuga de agua",
+  "problemDescriptionHint": "Detalhe o problema",
+  "requestMaintenance": "Requisitar manutencao",
+  "openTechnicalChat": "Abrir chat tecnico",
+  "quickActionsTitle": "Acoes rapidas",
+  "quickActionsSubtitle": "Registre os detalhes e fotos do imovel. O numero de contacto do proprietario nao e preenchido aqui.",
+  "tenantActionsTitle": "Acoes do inquilino",
+  "requestMaintenanceShort": "Solicitar manutencao",
+  "viewMyContract": "Ver meu contrato",
+  "kpiTotalProperties": "Total de imoveis",
+  "kpiReceivedRent": "Rendas recebidas",
+  "kpiLateRent": "Rendas em atraso",
+  "kpiActiveAlerts": "Alertas ativos",
+  "addAtLeastOnePropertyPhoto": "Adicione pelo menos uma foto do imovel."
+  ,
+  "filterPropertiesTitle": "Filtrar imoveis",
+  "typeLabel": "Tipo",
+  "locationLabel": "Localizacao",
+  "locationHint": "Cidade ou bairro",
+  "applyFilter": "Aplicar filtro",
+  "tenantEmailHint": "inquilino@email.com",
+  "contractStartHint": "01/03/2026",
+  "contractEndHint": "01/03/2027",
+  "adminDashboardTitle": "Painel Admin",
+  "adminControlCenter": "Centro de controlo",
+  "adminSupervisionSubtitle": "Supervisao de utilizadores, uploads e sinais de risco.",
+  "adminMysqlLoadFailure": "Falha ao carregar usuarios do MySQL.",
+  "noUsersRegisteredYet": "Nenhum utilizador cadastrado ainda.",
+  "quickSummary": "Resumo rapido",
+  "adminUsersLabel": "Utilizadores",
+  "adminsLabel": "Admins",
+  "riskyUploadsLabel": "Uploads em risco",
+  "openAlertsLabel": "Alertas abertos",
+  "needsAttentionNow": "Requer atencao agora",
+  "recentUsers": "Utilizadores recentes",
+  "viewAllUsers": "Ver todos utilizadores",
+  "systemUsersTitle": "Utilizadores do sistema",
+  "searchUsersHint": "Pesquisar por nome, email ou documento",
+  "filtersTitle": "Filtros",
+  "clear": "Limpar",
+  "allLabel": "Todos",
+  "activeLabel": "Ativos",
+  "suspendedLabel": "Suspensos",
+  "resultsCount": "{count} resultado(s)",
+  "@resultsCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "noUsersForSelectedFilters": "Sem utilizadores para os filtros selecionados.",
+  "accountSuspendedMessage": "Conta de {name} suspensa.",
+  "@accountSuspendedMessage": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "accountReactivatedMessage": "Conta de {name} reativada.",
+  "@accountReactivatedMessage": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "passwordResetLinkSent": "Link de reset enviado para {email}.",
+  "@passwordResetLinkSent": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "historyOpenedMessage": "Historico de {name} aberto.",
+  "@historyOpenedMessage": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "usersLoadError": "Nao foi possivel carregar utilizadores.",
+  "noPendingAlerts": "Sem alertas pendentes.",
+  "suspendedAccount": "Suspender conta",
+  "reactivateAccount": "Reativar conta",
+  "resetPassword": "Resetar senha",
+  "viewHistory": "Ver historico",
+  "uploadMonitorTitle": "Monitor de uploads",
+  "uploadMonitorSubtitle": "Acompanhe ficheiros enviados e identifique documentos suspeitos.",
+  "searchUploadHint": "Pesquisar por utilizador ou ficheiro",
+  "showOnlyRiskUploads": "Mostrar apenas uploads com risco",
+  "uploadsFound": "{count} upload(s) encontrado(s)",
+  "@uploadsFound": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "riskCenterTitle": "Central de risco",
+  "riskCenterSubtitle": "Monitore atividades fora do padrao e resolva alertas rapidamente.",
+  "resolvedAlertsLabel": "Alertas resolvidos",
+  "openAlertsSection": "Abertos",
+  "markAsResolved": "Marcar como resolvido",
+  "adminActionsTitle": "Acoes de administracao",
+  "viewUsers": "Ver utilizadores",
+  "monitorUploads": "Monitorar uploads",
+  "suspiciousBehaviors": "Comportamentos suspeitos",
+  "availablePropertiesTitle": "Imoveis disponiveis",
+  "availablePropertiesSubtitle": "Pesquise, filtre e avalie imoveis para arrendar sem intermediarios."
+}

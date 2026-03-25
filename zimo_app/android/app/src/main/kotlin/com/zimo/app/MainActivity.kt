@@ -1,4 +1,4 @@
-package com.example.zimo_app
+package com.zimo.app
 
 import io.flutter.embedding.android.FlutterActivity
 
